@@ -1,0 +1,127 @@
+.navbar-brand img{
+    height: 10vh;
+    width: 10vh;
+    
+}
+
+.navbar-brand{
+    font-size: 30px;
+}
+
+.navbar-nav{
+
+    display:flex;
+  margin: 20px;
+    
+
+
+}
+
+
+
+.carousel{
+    /* margin-top: -45px; */
+    margin: 0%;
+
+}
+
+.dip{
+    /* border: 2px solid peru; */
+    margin-top: 0;
+    background-color: white;
+}
+
+.mango{
+border: solid pink;
+text-align: justify;
+
+}
+
+.kiwi{
+    margin-top: 1.5vh;
+    border: .5vh solid red;
+    display: flex;
+    background-color: lightcoral;
+}
+
+.user-grid1{
+
+    display: flex;
+    border: .2vh solid rgb(38, 0, 255);
+    align-items: center;
+    margin-left: 20vh;
+}
+
+.container{
+    height: 10vh;
+    width: 100%;
+    
+}
+
+.card{
+    height: 45vh;
+    width: 20vw;
+    margin-top: 20vh;
+    border: none;
+    text-align: center;
+    margin:0%
+   
+    
+
+}
+.card img{
+    height: 40vh;
+    width: 20vw;
+    margin: 2%;
+    
+
+}
+.ABC{
+
+    /* border: .25VH solid blue; */
+    height: 50vh;
+    padding-top: 2vh;
+}
+
+.abcd{
+    /* border: 1px solid black; */
+    height: 45vh;
+}
+
+.xy{
+    border: .25vh solid palegreen;
+    background-color: black;
+}
+
+.col1{
+    display: flex;
+    border: .25vh solid greenyellow;
+    align-items: center;
+    text-align: justify;
+    background-color: pink;
+    text-emphasis-color: white;
+
+}
+
+.row-bcd{
+    display: flex;
+    flex-direction: row;
+    padding: 1em;
+   
+}
+
+#icon{
+    font-size: 25px;
+    color: red;
+}
+
+.class3{
+    text-align: center;
+}
+
+.four{
+    background-color:pink;
+    padding-top: 1vh;
+    
+    
+}

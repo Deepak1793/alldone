@@ -1,0 +1,117 @@
+Answers with questions
+
+1.What are the report types that are generated in Jira?
+Time Tracking Report, User Workload Report, Version Workload Report
+
+2.Explain the three colour indicators to show time spent in Jira and their significance.
+Blue, Green, and Orange are used for signifying the amount of time spent on the given issue. The information is available under the section of 'Time Tracking
+
+3.What are some of the configuration fields of an agile board?
+Configure an Agile Board.
+Configure General Settings.
+Configure Columns.
+Configure Swimlanes.
+Configure Cards.
+Configure Charts.
+Configure the Backlog.
+
+
+4.For an Agile project, how are user stories created in Jira?
+We can create a new user story in Jira by selecting the option to create a new issue. When choosing the issue type, we need to pick Story. We can then use the summary field to fill it with the user story itself. We will see it on the new issue creation screen.
+
+5.What all are included under change history for a given issue?
+1. Creation and deletion of a comment
+2. Creation and deletion of an issue link
+3. Deletion of a worklog
+4. File attachment changes
+5 issue field changes
+
+6.Why are the issues in Jira labelled?
+JIRA is a project management tool and uses issues to track all the tasks. An issue helps to track all works that underlie in a project. In real time, every work or task either technical, non-technical, support or any other type of a project in JIRA are logged as an issue.
+An issue can be dependent on the organization and requirements −
+Story of a project
+Task of a story
+Sub-task of a story
+A defect or bug can be an issue
+Helpdesk Ticket can be logged as issue
+Leave Request
+
+7.What is the diﬀerence between Jira Kanban and Jira Scrum ?
+Kanban is a project management method that helps visualize tasks, while Scrum is a method that provides structure to the team and schedule. Kanban and Scrum are project management methodologies that complete project tasks in small increments and emphasize continuous improvement
+
+8.What are some of the common Jira add-ons?
+Automation
+ScriptRunner
+JSU Automation Suite for Jira Workflows
+BigGantt
+eazyBI Reports and Charts for Jira
+BigPicture
+Structure
+Email This Issue
+Zephyr for Jira - Test Management
+Git Integration
+Insight Asset Management
+SAML Single Sign On (SSO) Jira
+Tempo Timesheets
+
+
+9.What do you mean by Cloning an Issue in JIRA?
+Cloning enables you to duplicate an issue within the same project, copying over most information from an issue like the Summary and Description fields and more.
+
+
+10.Martina is unable to perform the following actions in the App project:
+
+Ans-Rank issues in the backlog
+
+
+11. All projects use a shared permission scheme
+The Browse Projects permission needs to be updated. Project administrators r
+What entry should be added to the Browse Projects permission?
+
+Project lead
+
+
+12.Teresa is able to see the Start Progress transition but not the Approve transition on an issue. Her coworker is able to see both.
+Identify two possible causes why Teresa can NOT see the Approve transition. (Choose two.)
+
+Ans- Teresa does not have the Transition Issues permission.
+     Teresa is not in the correct aroup or project role.
+
+
+13.You are the project administrator handling configuration changes requested by the users. Whenever possible, you want to handle the changes
+yourself without involving the Jira administrator.
+Which two changes might be possible for you to handle yourself? (Choose two.)
+
+Ans-The priority value Highest is not needed in the project.
+    Only certain users should be able set the TOP SECRET issue security level.
+
+14. You are the project administrator for a Software Scrum Project.
+Time Tracking is globally enabled.
+Identify the reason why users are NOT able to log work.
+The Log Work field is not present on any project screens.
+The users do not have the Work On Issues permission.
+Time Tracking on the Scrum board is set to None.
+The issues do not have an Original Estimate.
+Issue estimation on the Scrum board is set to Story points instead of Original Estimate.
+
+Ans-The users do not have the Work On Issues permission.
+
+15.Who can drag and drop issues to the Closed column on the board?
+only the board administrator
+any user with Jira Software application access
+nobody
+any logged in user
+only members of the Administrators project role
+
+Ans- any user with Jira Software application access
+**********************************************************************************************
+
+As a recurring customer, I want to reorder items from my previous orders so I don’t have to search for them each time.
+
+AC1. Order history option is displayed on accounts page.
+AC2. Previously purchased items are displayed when clicking on order history.
+AC3. User may add previously ordered items to the cart.
+
+1. Create the Happy Path and Negative test cases for above acceptance criteria(AC).
+2.Go to https://petstore.octoperf.com/actions/Catalog.action and write test cases on the home page and also list out 5 bugs(from the site-from any page)
+

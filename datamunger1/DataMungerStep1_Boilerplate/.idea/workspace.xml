@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45e5ffbd-7671-4e27-ae2d-519e1aa67f8a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ISWSBFmiU0H38amcsm8u1VuXxd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.DataMungerTestTask4">
+    <configuration name="DataMungerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataMungerStep1-boilerplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.datamunger.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.datamunger.test" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.datamunger.test.DataMungerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataMungerTestTask1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataMungerStep1-boilerplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.datamunger.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.datamunger.test" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.datamunger.test.DataMungerTestTask1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataMungerTestTask2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataMungerStep1-boilerplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.datamunger.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.datamunger.test" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.datamunger.test.DataMungerTestTask2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataMungerTestTask3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataMungerStep1-boilerplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.datamunger.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.datamunger.test" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.datamunger.test.DataMungerTestTask3" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataMungerTestTask4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataMungerStep1-boilerplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.datamunger.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.datamunger.test" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.datamunger.test.DataMungerTestTask4" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DataMungerTestTask4" />
+        <item itemvalue="JUnit.DataMungerTestTask3" />
+        <item itemvalue="JUnit.DataMungerTestTask2" />
+        <item itemvalue="JUnit.DataMungerTestTask1" />
+        <item itemvalue="JUnit.DataMungerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45e5ffbd-7671-4e27-ae2d-519e1aa67f8a" name="Changes" comment="" />
+      <created>1670175480404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670175480404</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,20 @@
+{
+  "newsdata": [
+    {
+      "description": "FIFA World Cup 2022, Qatar vs Ecuador Live: Enner Valencia scored twice in the first-half to give Ecuador a 2-0 at the break against Qatar in the opening match of the FIFA World Cup at the Al Bayt Stadium in Al Khol",
+      "url": "https://sports.ndtv.com/fifa-world-cup-2022/fifa-world-cup-2022-qatar-vs-ecuador-football-live-score-updates-3537785",
+      "urlToImage": "https://c.ndtvimg.com/2022-11/sni4u8c_enner-valencia-afp_625x300_20_November_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+      "title": "FIFA World Cup 2022, Highlights: Enner Valencia Brace Gives Ecuador 2-0 Win vs Qatar In Opener - NDTV Sports",
+      "author": "NDTV Sports Desk",
+      "id": 1
+    },
+    {
+      "description": "Doctors from private hospitals in Pune found that several patients with severe Covid infection who had high blood sugar levels during Covid treatment had persistent diabetes even after recovery",
+      "url": "https://www.hindustantimes.com/cities/pune-news/patients-with-severe-covid-pre-diabetic-conditions-showed-persistent-diabetes-after-recovery-doctors-101668968835619.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/11/20/1600x900/7cfda802-6900-11ed-ae2f-eb59304e4c50_1668968834342.jpg",
+      "title": "Patients with severe Covid & pre-diabetic conditions showed persistent diabetes after recovery: Doctors - Hindustan Times",
+      "author": "Namrata Devikar",
+      "id": 2
+    }
+  ]
+}
